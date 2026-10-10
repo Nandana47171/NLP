@@ -1,0 +1,23 @@
+sentence,abbreviation,gold,predicted,confidence,status
+Our ML pipeline retrains weekly as new samples arrive.,ML,Machine Learning,Machine Learning,0.856,OK
+Add 5 ML of water to the beaker.,ML,Milliliter,Milliliter,0.79,OK
+The CNN correspondent was live from the capital last night.,CNN,Cable News Network,Cable News Network,0.564,OK
+We trained a CNN with three conv blocks and dropout on chest X-rays.,CNN,Convolutional Neural Network,Convolutional Neural Network,0.773,OK
+She was wheeled in and the IV line was placed in her arm.,IV,Intravenous,Intravenous,0.905,OK
+His BP was elevated at the clinic this morning.,BP,Blood Pressure,Blood Pressure,0.552,OK
+Analysts upgraded BP after quarterly earnings.,BP,British Petroleum,Blood Pressure,0.611,WRONG
+The PM will inaugurate the bridge next week.,PM,Prime Minister,Post Meridiem,1.0,WRONG
+Standup with the PM is scheduled for the new release.,PM,Project Manager,Post Meridiem,0.879,WRONG
+Lunch is served at 1 PM.,PM,Post Meridiem,Prime Minister,1.0,WRONG
+Please attach your CV to the portal before Friday.,CV,Curriculum Vitae,Curriculum Vitae,1.0,OK
+The CV system flags defects on the assembly line.,CV,Computer Vision,Computer Vision,0.945,OK
+The DB went down after the migration.,DB,Database,Database,1.0,OK
+Ear protection is advised above 85 DB.,DB,Decibel,Decibel,1.0,OK
+The NLP model summarises customer reviews.,NLP,Natural Language Processing,Neuro-Linguistic Programming,1.0,WRONG
+Her NLP certification covers anchoring and reframing techniques.,NLP,Neuro-Linguistic Programming,Neuro-Linguistic Programming,0.538,OK
+The OS upgrade needs a reboot.,OS,Operating System,Operating System,1.0,OK
+The AI landed ten minutes behind schedule at the gate.,AI,Air India,Air India,0.954,OK
+The API returned a 404 error.,API,Application Programming Interface,Application Programming Interface,0.624,OK
+Pressure was held at 1 ATM throughout.,ATM,Standard Atmosphere,Standard Atmosphere,1.0,OK
+The ATM near the station was out of order.,ATM,Automated Teller Machine,Standard Atmosphere,1.0,WRONG
+The IV was changed every six hours by the ward staff.,IV,Intravenous,Intravenous,0.662,OK

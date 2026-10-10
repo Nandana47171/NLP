@@ -1,0 +1,53 @@
+sentence,abbreviation,gold,predicted,confidence,status
+The CNN model achieved 94% accuracy on the image classification task after training for 20 epochs.,CNN,Convolutional Neural Network,Convolutional Neural Network,0.935,OK
+CNN reported that the anchor interviewed the minister during the evening broadcast.,CNN,Cable News Network,Cable News Network,0.933,OK
+The nurse started the IV drip to give saline to the dehydrated patient.,IV,Intravenous,Intravenous,0.949,OK
+"In Chapter IV of the history volume, the king is crowned.",IV,Four (Roman numeral),Four (Roman numeral),0.842,OK
+The ML algorithm learns patterns from the training data to predict outcomes.,ML,Machine Learning,Machine Learning,0.975,OK
+Take 10 ML of the syrup solution as one dose.,ML,Milliliter,Milliliter,0.992,OK
+The API endpoint returns JSON when the backend server receives a request.,API,Application Programming Interface,Application Programming Interface,0.981,OK
+The API gravity of the crude oil sample met the refinery standard.,API,American Petroleum Institute,American Petroleum Institute,0.984,OK
+Boot the OS from USB and install the kernel updates.,OS,Operating System,Operating System,1.0,OK
+Boot the OS from USB and install the kernel updates.,USB,Universal Serial Bus,Universal Serial Bus,1.0,OK
+The ophthalmology report noted reduced acuity in the OS with a left eye prescription.,OS,Oculus Sinister (left eye),Oculus Sinister (left eye),0.977,OK
+The HR team scheduled the interview and finalised the recruitment policy for new employees.,HR,Human Resources,Human Resources,0.982,OK
+The monitor showed an HR of 82 bpm with a normal ECG for the patient.,HR,Heart Rate,Heart Rate,0.972,OK
+The monitor showed an HR of 82 bpm with a normal ECG for the patient.,ECG,Electrocardiogram,Electrocardiogram,1.0,OK
+Run the SQL query to fetch records from the DB table.,DB,Database,Database,1.0,OK
+Run the SQL query to fetch records from the DB table.,SQL,Structured Query Language,Structured Query Language,1.0,OK
+"The noise level at the concert reached 110 DB, which is very loud.",DB,Decibel,Decibel,0.912,OK
+NLP techniques such as tokenization help analyse text and sentiment in language data.,NLP,Natural Language Processing,Natural Language Processing,0.962,OK
+The coach used NLP to build rapport and change client behaviour through hypnosis.,NLP,Neuro-Linguistic Programming,Neuro-Linguistic Programming,0.952,OK
+"The patient's BP was 150/95 mmHg, so hypertension was suspected.",BP,Blood Pressure,Blood Pressure,0.957,OK
+BP shares rose after the oil company announced higher gas production.,BP,British Petroleum,British Petroleum,0.99,OK
+The PM addressed parliament about the government's new policy.,PM,Prime Minister,Prime Minister,0.967,OK
+The meeting is at 5 PM tomorrow evening.,PM,Post Meridiem,Post Meridiem,0.969,OK
+The PM shared the sprint deadline with the team and the client.,PM,Project Manager,Project Manager,0.94,OK
+ETA of the delivery package is Friday.,ETA,Estimated Time of Arrival,Estimated Time of Arrival,1.0,OK
+He updated his CV and sent his resume to the recruiter for the job interview.,CV,Curriculum Vitae,Curriculum Vitae,0.959,OK
+The CV pipeline uses OpenCV to run object detection on camera images.,CV,Computer Vision,Computer Vision,0.974,OK
+Carry your student ID card for photo verification at the exam hall.,ID,Identification,Identification,1.0,OK
+Enter the OTP sent to your phone to log in.,OTP,One-Time Password,One-Time Password,1.0,OK
+The ATM dispensed cash after the card PIN was verified.,ATM,Automated Teller Machine,Automated Teller Machine,0.91,OK
+The gas was compressed to a pressure of 2 ATM inside the chamber.,ATM,Standard Atmosphere,Standard Atmosphere,0.97,OK
+Upgrade the RAM on the laptop to speed up programs.,RAM,Random Access Memory,Random Access Memory,1.0,OK
+The AI system detects objects in images using deep learning.,AI,Artificial Intelligence,Artificial Intelligence,0.972,OK
+The AI flight landed at Delhi airport with 200 passengers.,AI,Air India,Air India,0.98,OK
+The GPU accelerates training of neural networks by parallel computing.,GPU,Graphics Processing Unit,Graphics Processing Unit,1.0,OK
+WHO declared a global health emergency during the pandemic.,WHO,World Health Organization,World Health Organization,1.0,OK
+The MRI scan of the patient's brain showed no abnormality.,MRI,Magnetic Resonance Imaging,Magnetic Resonance Imaging,1.0,OK
+The GPS in the phone shows the route to the airport.,GPS,Global Positioning System,Global Positioning System,1.0,OK
+Send the report ASAP and FYI the deadline moved.,ASAP,As Soon As Possible,As Soon As Possible,1.0,OK
+Send the report ASAP and FYI the deadline moved.,FYI,For Your Information,For Your Information,1.0,OK
+The CNN-based IV drip monitor uses a camera to detect the fluid level.,CNN,Convolutional Neural Network,Convolutional Neural Network,0.93,OK
+The CNN-based IV drip monitor uses a camera to detect the fluid level.,IV,Intravenous,Intravenous,0.873,OK
+The UN passed a resolution at the general assembly.,UN,United Nations,United Nations,1.0,OK
+Check the HTML page layout before the browser renders it.,HTML,HyperText Markup Language,HyperText Markup Language,1.0,OK
+I will call you at 6 PM.,PM,Post Meridiem,Post Meridiem,0.964,OK
+The ML dose was written on the syrup bottle label.,ML,Milliliter,Milliliter,0.966,OK
+Doctors monitor HR and BP continuously in the hospital.,HR,Heart Rate,Heart Rate,0.996,OK
+Doctors monitor HR and BP continuously in the hospital.,BP,Blood Pressure,Blood Pressure,0.974,OK
+The CPU executes instructions while the OS manages memory and processes.,CPU,Central Processing Unit,Central Processing Unit,1.0,OK
+The CPU executes instructions while the OS manages memory and processes.,OS,Operating System,Operating System,0.949,OK
+The IV was administered through a catheter during therapy.,IV,Intravenous,Intravenous,0.96,OK
+The CNN anchor reported breaking news on television.,CNN,Cable News Network,Cable News Network,0.922,OK

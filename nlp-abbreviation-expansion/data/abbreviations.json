@@ -1,0 +1,76 @@
+{
+  "CNN": [
+    {"expansion": "Convolutional Neural Network", "context": "image vision layers deep learning training filters classification pooling model detect detection camera features"},
+    {"expansion": "Cable News Network", "context": "news channel anchor broadcast reported television journalist breaking media interview"}
+  ],
+  "ML": [
+    {"expansion": "Machine Learning", "context": "model data algorithm training predict learning patterns outcomes supervised dataset"},
+    {"expansion": "Milliliter", "context": "dose tablet syrup mg volume solution bottle dosage label medicine liquid"}
+  ],
+  "IV": [
+    {"expansion": "Intravenous", "context": "drip patient fluid saline nurse hospital infusion catheter therapy administered vein"},
+    {"expansion": "Four (Roman numeral)", "context": "chapter volume part section king henry phase act edition"}
+  ],
+  "AI": [
+    {"expansion": "Artificial Intelligence", "context": "system learning intelligence machine deep neural automation detects objects robot"},
+    {"expansion": "Air India", "context": "flight airline passengers airport delhi landed aircraft pilot boarding"}
+  ],
+  "API": [
+    {"expansion": "Application Programming Interface", "context": "endpoint request server backend json call developers software integration response"},
+    {"expansion": "American Petroleum Institute", "context": "oil crude gravity petroleum standard refinery barrel sample industry"}
+  ],
+  "OS": [
+    {"expansion": "Operating System", "context": "kernel linux windows boot process memory install updates computer software drivers"},
+    {"expansion": "Oculus Sinister (left eye)", "context": "eye ophthalmology prescription left acuity optometrist lens vision"}
+  ],
+  "HR": [
+    {"expansion": "Human Resources", "context": "employees hiring recruitment policy payroll interview manager team onboarding staff"},
+    {"expansion": "Heart Rate", "context": "pulse bpm ecg monitor beats cardiac patient doctors continuously rhythm"}
+  ],
+  "DB": [
+    {"expansion": "Database", "context": "sql query table records schema storage rows fetch server data"},
+    {"expansion": "Decibel", "context": "sound noise loud volume audio level concert acoustic hearing"}
+  ],
+  "NLP": [
+    {"expansion": "Natural Language Processing", "context": "text language tokens words sentiment tokenization corpus analyse linguistics data"},
+    {"expansion": "Neuro-Linguistic Programming", "context": "therapy coach behaviour rapport hypnosis mindset client change personal"}
+  ],
+  "BP": [
+    {"expansion": "Blood Pressure", "context": "patient hypertension mmhg systolic cuff monitor cardiac doctor reading doctors"},
+    {"expansion": "British Petroleum", "context": "oil company gas petrol shares energy stock production market announced"}
+  ],
+  "PM": [
+    {"expansion": "Prime Minister", "context": "government minister parliament country election office policy cabinet addressed nation"},
+    {"expansion": "Post Meridiem", "context": "evening night afternoon time clock tomorrow meeting call morning schedule pm"},
+    {"expansion": "Project Manager", "context": "team sprint deadline project stakeholders client delivery planning milestone"}
+  ],
+  "CV": [
+    {"expansion": "Curriculum Vitae", "context": "resume job application interview recruiter candidate experience hiring sent updated"},
+    {"expansion": "Computer Vision", "context": "image camera detection opencv pixels recognition model pipeline object"}
+  ],
+  "ATM": [
+    {"expansion": "Automated Teller Machine", "context": "cash card pin bank withdraw dispensed account money"},
+    {"expansion": "Standard Atmosphere", "context": "pressure gas physics chamber measured compressed unit torr"}
+  ],
+  "ETA": [
+    {"expansion": "Estimated Time of Arrival", "context": "arrival delivery flight train reach package expected shipment"}
+  ],
+  "ID": [
+    {"expansion": "Identification", "context": "card proof verify number student photo login verification"}
+  ],
+  "OTP": [{"expansion": "One-Time Password", "context": "login phone sent verify code authentication"}],
+  "RAM": [{"expansion": "Random Access Memory", "context": "laptop memory upgrade programs speed computer gigabyte"}],
+  "CPU": [{"expansion": "Central Processing Unit", "context": "processor instructions computer executes core"}],
+  "GPU": [{"expansion": "Graphics Processing Unit", "context": "training parallel computing graphics neural cuda"}],
+  "GPS": [{"expansion": "Global Positioning System", "context": "location route navigation satellite phone map"}],
+  "USB": [{"expansion": "Universal Serial Bus", "context": "drive port device cable boot plug"}],
+  "SQL": [{"expansion": "Structured Query Language", "context": "query database table records select"}],
+  "HTML": [{"expansion": "HyperText Markup Language", "context": "web page browser layout renders tags"}],
+  "MRI": [{"expansion": "Magnetic Resonance Imaging", "context": "scan brain patient radiology imaging"}],
+  "ECG": [{"expansion": "Electrocardiogram", "context": "heart cardiac signal patient waveform"}],
+  "WHO": [{"expansion": "World Health Organization", "context": "health global pandemic emergency disease vaccine declared"}],
+  "UN": [{"expansion": "United Nations", "context": "resolution general assembly countries nations security council"}],
+  "ASAP": [{"expansion": "As Soon As Possible", "context": "urgent quickly deadline send immediately"}],
+  "FYI": [{"expansion": "For Your Information", "context": "note information update heads"}],
+  "BTW": [{"expansion": "By The Way", "context": "also incidentally note"}]
+}

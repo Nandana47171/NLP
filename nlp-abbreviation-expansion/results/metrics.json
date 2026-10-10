@@ -1,0 +1,48 @@
+{
+  "main": {
+    "Baseline (first sense)": {
+      "mentions": 52,
+      "ambiguous_mentions": 36,
+      "overall_accuracy": 0.6538,
+      "ambiguous_accuracy": 0.5,
+      "detection_recall": 1.0
+    },
+    "Word TF-IDF": {
+      "mentions": 52,
+      "ambiguous_mentions": 36,
+      "overall_accuracy": 0.9808,
+      "ambiguous_accuracy": 0.9722,
+      "detection_recall": 1.0
+    },
+    "Char n-gram TF-IDF": {
+      "mentions": 52,
+      "ambiguous_mentions": 36,
+      "overall_accuracy": 1.0,
+      "ambiguous_accuracy": 1.0,
+      "detection_recall": 1.0
+    }
+  },
+  "heldout": {
+    "Baseline (first sense)": {
+      "mentions": 22,
+      "ambiguous_mentions": 22,
+      "overall_accuracy": 0.5455,
+      "ambiguous_accuracy": 0.5455,
+      "detection_recall": 1.0
+    },
+    "Word TF-IDF": {
+      "mentions": 22,
+      "ambiguous_mentions": 22,
+      "overall_accuracy": 0.6364,
+      "ambiguous_accuracy": 0.6364,
+      "detection_recall": 1.0
+    },
+    "Char n-gram TF-IDF": {
+      "mentions": 22,
+      "ambiguous_mentions": 22,
+      "overall_accuracy": 0.7273,
+      "ambiguous_accuracy": 0.7273,
+      "detection_recall": 1.0
+    }
+  }
+}
